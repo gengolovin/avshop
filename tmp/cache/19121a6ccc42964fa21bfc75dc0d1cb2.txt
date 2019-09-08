@@ -1,0 +1,134 @@
+a:2:{s:4:"data";s:3411:"<li>
+    <a href="category/dekor">Декор</a>
+            <ul>
+            <li>
+    <a href="category/eyes">Глаза</a>
+    </li>
+<li>
+    <a href="category/lips">Губы</a>
+    </li>
+<li>
+    <a href="category/face">Лицо</a>
+    </li>
+<li>
+    <a href="category/nails">Ногти</a>
+    </li>
+<li>
+    <a href="category/accessories_dekor">Аксессуары</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/skin">Кожа</a>
+            <ul>
+            <li>
+    <a href="category/cleansers">Очищающее средство</a>
+    </li>
+<li>
+    <a href="category/skinaroundeyes">Уход за кожей вокруг глаз</a>
+    </li>
+<li>
+    <a href="category/skincarelip">Уход за кожей губ</a>
+    </li>
+<li>
+    <a href="category/problemskin">Проблемная кожа</a>
+    </li>
+<li>
+    <a href="category/sunscreens">Солнцезащитные средства</a>
+    </li>
+<li>
+    <a href="category/scrubsandmasks">Скрабы и маски</a>
+    </li>
+<li>
+    <a href="category/specialfunds">Специальные средства</a>
+    </li>
+<li>
+    <a href="category/accordingtotheage">По возрасту</a>
+    </li>
+<li>
+    <a href="category/ Ineffect">По эффекту</a>
+    </li>
+<li>
+    <a href="category/specials">Спецпредложения</a>
+    </li>
+<li>
+    <a href="category/accessories_skin">Аксессуары</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/body">Тело</a>
+            <ul>
+            <li>
+    <a href="category/allforthesoul">Все для душа</a>
+    </li>
+<li>
+    <a href="category/forbody">Для тела</a>
+    </li>
+<li>
+    <a href="category/fightingcellulite">Борьба с целлюлитом</a>
+    </li>
+<li>
+    <a href="category/deodorants">Дезодоранты</a>
+    </li>
+<li>
+    <a href="category/forhands">Для рук</a>
+    </li>
+<li>
+    <a href="category/forlegs">Для ног</a>
+    </li>
+<li>
+    <a href="category/fordepilation">Для депиляции</a>
+    </li>
+<li>
+    <a href="category/Intimatehygiene">Интимная гигиена</a>
+    </li>
+<li>
+    <a href="category/forafterthesun">Для и после загара</a>
+    </li>
+<li>
+    <a href="category/accessories_body">Аксессуары</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/aroma">Ароматы</a>
+            <ul>
+            <li>
+    <a href="category/womenfragrances">Женские ароматы</a>
+    </li>
+<li>
+    <a href="category/menfragrances">Мужские ароматы</a>
+    </li>
+<li>
+    <a href="category/foryoungfashionistas">Для юных модниц</a>
+    </li>
+<li>
+    <a href="category/spraysanddeodorants 	">Спреи и дезодоранты</a>
+    </li>
+<li>
+    <a href="category/lotionsbodycreams">Лосьены и крема для тела</a>
+    </li>
+<li>
+    <a href="category/showergels">Гели для душа</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/hair">Волосы</a>
+            <ul>
+            <li>
+    <a href="category/shamp_conditioners">Шампуши и ополаскиватели</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/style">Стиль</a>
+    </li>
+<li>
+    <a href="category/men">Для мужчин</a>
+    </li>
+<li>
+    <a href="category/prochee">Прочее</a>
+    </li>
+";s:8:"end_time";i:1567275985;}
